@@ -41,6 +41,6 @@ This repository is primarily for learning, but suggestions and improvements are 
 
 ## 📌 Progress Tracker
 - [x] Setup repository  
-- [ ] Add beginner projects  
+- [x] Add beginner projects  
 - [ ] Add intermediate projects  
 - [ ] Add advanced projects  
